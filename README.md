@@ -11,9 +11,9 @@ DISTRIB_CODENAME=jammy
 DISTRIB_DESCRIPTION="Ubuntu 22.04.2 LTS"
 ```
 
-### インストール(ubuntu)
+### 各ファイルの内容
 
-```shell
-sudo apt update && sudo apt upgrade -y
-sudo apt install mariadb-client mariadb-server
-```
+| ファイル名 | 内容 |
+|:---:|:---|
+| mariadb.md | mariadb のメモ |
+|||
